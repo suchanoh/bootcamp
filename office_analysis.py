@@ -9,7 +9,7 @@ df = df0[df0.season <= 7]
 main = ["Michael", "Jim", "Pam", "Dwight"]
 characters = ["Michael", "Jim", "Pam", "Dwight", "Phyllis", "Stanley",
 				"Angela", "Oscar", "Kevin", "Ryan", "Jan", "Toby", "Darryl", 
-				"Creed", "Kelly", "Andy", "Karen", "Holly",	"Roy", "Erin", 
+				"Creed", "Kelly", "Andy", "Karen", "Holly", "Roy", "Erin", 
 				"Gabe", "David"]
 
 def debracket(words):
